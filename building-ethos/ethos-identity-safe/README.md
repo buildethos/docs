@@ -21,7 +21,7 @@ Users can integrate a variety of digital accounts and profiles into one consolid
 
 Within the Ethos Identity Safe, each digital identity or account is associated with a set of attributes. Users can choose which attributes are disclosed when interfacing with different platforms, applications, or services. Users retain autonomy to decide the level of information they are comfortable sharing.
 
-[Learn more selective disclosure.](selective-disclosure.md)
+[Learn more about selective disclosure.](selective-disclosure.md)
 
 ## Digital Identity Verification
 
