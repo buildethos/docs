@@ -5,7 +5,9 @@
 ## 🎭 Building Ethos
 
 * [For Users](building-ethos/for-users.md)
-* [Ethos Identity Safe](building-ethos/ethos-identity-safe.md)
+* [Ethos Identity Safe](building-ethos/ethos-identity-safe/README.md)
+  * [Selective Disclosure](building-ethos/ethos-identity-safe/selective-disclosure.md)
+  * [Identity Verification](building-ethos/ethos-identity-safe/identity-verification.md)
 
 ## 🏩 Brands
 

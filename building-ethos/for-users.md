@@ -48,3 +48,5 @@ Yet, with these opportunities come challenges and concerns.
 ## Ethos: Bridging the Gap
 
 Our mission is clear: to empower consumers with control over their personal data, while enabling businesses to engage with their audience in a meaningful, yet respectful manner. At the heart of Ethos is the belief that data privacy is not an either-or proposition. We can deliver personalized experiences while respecting personal data.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption><p>personalization shouldn't mean surveillance</p></figcaption></figure>

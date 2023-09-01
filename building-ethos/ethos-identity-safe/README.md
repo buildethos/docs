@@ -21,7 +21,10 @@ Users can integrate a variety of digital accounts and profiles into one consolid
 
 Within the Ethos Identity Safe, each digital identity or account is associated with a set of attributes. Users can choose which attributes are disclosed when interfacing with different platforms, applications, or services. Users retain autonomy to decide the level of information they are comfortable sharing.
 
+[Learn more selective disclosure.](selective-disclosure.md)
+
 ## Digital Identity Verification
 
 The Ethos Identity Safe allows users to verify their ownership of digital profiles through cryptographic schemas. Importing accounts into the Identity Safe creates a unique hash identifier used to prove user ownership and attributes of digital profiles.
 
+[Learn more about identity verification.](identity-verification.md)

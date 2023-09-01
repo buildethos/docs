@@ -66,10 +66,12 @@ At Ethos, user privacy is at the core of our product. Our platform, built on lea
 * **State-of-the-Art Security**: Leveraging advanced encryption and security protocols, Ethos guarantees that data is protected against unauthorized access.
 * **No Compromises**: Our commitment means we never trade, sell, or misuse individual data. Ever.
 
+***
+
 ## Your Feedback Matters
 
 We strive for continuous improvement and value the input of our community. If you spot any discrepancies in our documentation or have suggestions for enhancement:
 
 * [**Submit a Request**](https://www.youtube.com/): Help us refine our platform by pointing out areas of concern or offering suggestions. This systematic approach ensures that your feedback is prioritized and acted upon.
 
-We appreciate your proactive involvement in shaping Ethos to be the best it can be. Together, we can create a platform that truly resonates with its users.
+We appreciate your proactive involvement in shaping Ethos to be the best it can be.
