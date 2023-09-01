@@ -13,7 +13,7 @@ In today's fragmented digital ecosystem, personal data exists in isolated silos,
 
 Ethos connects consumers with tailored loyalty and rewards from brands, using aggregated user profiles to enable targeted, value-driven consumer engagement campaigns.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>ethos: privacy-preserving consumer engagement</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>ethos: privacy-preserving consumer engagement</p></figcaption></figure>
 
 Built using advanced zero-knowledge (ZK) and privacy-preserving technologies, Ethos allows brands to access previously unavailable user data without revealing private information. This enhanced data access empowers brands to craft targeted loyalty and consumer engagement campaigns, all while respecting user privacy.
 
