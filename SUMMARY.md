@@ -19,3 +19,7 @@
 * [Integration](developers/integration.md)
 * [Ethos Connect Kit](developers/ethos-connect-kit.md)
 * [Developer FAQs](developers/developer-faqs.md)
+
+## links
+
+* [GitHub](https://github.com/buildethos)
