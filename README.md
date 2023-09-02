@@ -23,7 +23,7 @@ Ethos seeks to enhance consumer engagement and improve brand loyalty.
 
 The Ethos Identity Safe is a private, self-sovereign digital vault designed to aggregate and protect digital profiles.&#x20;
 
-The Ethos Identity Safe ensures utmost privacy by allowing users to **selectively disclose aspects of their identity without revealing private information**. This is achieved using cutting-edge ZK-proof technology to surface verified identity attributes for external parties in a privacy-preserving manner.
+The Ethos Identity Safe ensures utmost privacy by allowing users to **selectively disclose aspects of their identity without revealing private information**. This is achieved using cutting-edge ZK-proof technology to surface verified identity attributes to external parties in a privacy-preserving manner.
 
 *   #### Consolidated Identity
 

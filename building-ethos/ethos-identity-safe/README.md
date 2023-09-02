@@ -7,7 +7,7 @@ coverY: 60
 
 # Ethos Identity Safe
 
-The Ethos Identity Safe is a private, self-sovereign digital vault designed to aggregate and protect digital profiles. Built using cutting-edge zero-knowledge (ZK) proof technology, The Ethos Identity Safe ensures utmost privacy, allowing you to **selectively disclose aspects of your identity without revealing private information**.
+The Ethos Identity Safe is a private, self-sovereign digital vault designed to aggregate and protect digital profiles. Built using cutting-edge zero-knowledge (ZK) proof technology, the Ethos Identity Safe ensures utmost privacy, allowing you to **selectively disclose aspects of your identity without revealing private information**.
 
 ## Digital Identity Aggregation
 
