@@ -17,6 +17,8 @@ Users can integrate a variety of digital accounts and profiles into one consolid
 * Web2 accounts from platforms like Github, Telegram, Spotify
 * Ethos Identifiers (anonymous identifiers for native applications)
 
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption><p>aggregating profiles into the ethos identity safe</p></figcaption></figure>
+
 ## Selective Data Sharing
 
 Within the Ethos Identity Safe, each digital identity or account is associated with a set of attributes. Users can choose which attributes are disclosed when interfacing with different platforms, applications, or services. Users retain autonomy to decide the level of information they are comfortable sharing.
