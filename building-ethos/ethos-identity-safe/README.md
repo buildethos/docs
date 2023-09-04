@@ -15,7 +15,7 @@ Users can integrate a variety of digital accounts and profiles into one consolid
 
 * Web3 accounts such as Ethereum addresses
 * Web2 accounts from platforms like Github, Telegram, Spotify
-* Ethos Identifiers (anonymous identifiers for native applications)
+* [Ethos Identifiers](native-ethos-identifiers.md) (anonymous identifiers for native applications)
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption><p>aggregating profiles into the ethos identity safe</p></figcaption></figure>
 

@@ -72,6 +72,6 @@ At Ethos, user privacy is at the core of our product. Our platform, built on lea
 
 We strive for continuous improvement and value the input of our community. If you spot any discrepancies in our documentation or have suggestions for enhancement:
 
-* [**Submit a Request**](https://www.youtube.com/): Help us refine our platform by pointing out areas of concern or offering suggestions. This systematic approach ensures that your feedback is prioritized and acted upon.
+* [**Submit a Request**](https://canny.io/): Help us refine our platform by pointing out areas of concern or offering suggestions. This systematic approach ensures that your feedback is prioritized and acted upon.
 
 We appreciate your proactive involvement in shaping Ethos to be the best it can be.

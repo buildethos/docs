@@ -8,6 +8,7 @@
 * [Ethos Identity Safe](building-ethos/ethos-identity-safe/README.md)
   * [Selective Disclosure](building-ethos/ethos-identity-safe/selective-disclosure.md)
   * [Identity Verification](building-ethos/ethos-identity-safe/identity-verification.md)
+  * [Native Ethos Identifiers](building-ethos/ethos-identity-safe/native-ethos-identifiers.md)
 
 ## 🏩 Brands
 
